@@ -1,6 +1,7 @@
 ![1659522795957](https://github.com/azics/azics/assets/75113852/b8e2fd0c-ddb0-43eb-92b5-5bafbda68dcc)
 
 <img src='https://raw.githubusercontent.com/azics/azics/main/azics.gif' width='200px"'> 
+
 ## Hi, I'm Azamat (aza)
 I'm a former coding enthusiast with a math background. Former hotelier. And now a Full-stack developer, mainly focusing on Front-end development with 4+ years of experience.
 
