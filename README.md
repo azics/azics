@@ -11,7 +11,7 @@ Interested in React.js and automated-testing
 
 Hobbies: creating arcade games using canvas, solving logic problems
 
-## My Skill Set  
+## Skills  
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
