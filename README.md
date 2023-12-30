@@ -1,4 +1,4 @@
-![1659522795957](https://github.com/azics/azics/assets/75113852/1f7807cc-c382-4473-8be3-fd3b1c022aca)
+![1659522795957](https://github.com/azics/azics/assets/75113852/b8e2fd0c-ddb0-43eb-92b5-5bafbda68dcc)
 
 <img src='https://raw.githubusercontent.com/azics/azics/main/azics.gif' width='200px"'> 
 
