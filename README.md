@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/azics/azics/main/aza.gif' width='200"'> 
+<img src='https://raw.githubusercontent.com/azics/azics/main/aza.gif' width='100"'> 
 
 ## Hi, I'm Azamat (aza)
 I'm coding enthusiast. Former hotelier. And now Full-stack developer mainly focusing on Front-end development.
