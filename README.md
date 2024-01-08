@@ -9,7 +9,7 @@ Proficient in Vue ecosystem.
 
 Interested in React.js and automated-testing
 
-Hobbies: creating arcade games using canvas, solving logic problems
+Hobbies: work with canvas, solving logic problems
 
 ## Skills  
 
